@@ -1,0 +1,11 @@
+**Project: Decoding Movie Emotions - Happy or Sad, They All Get Rated**
+This project explores the connection between a movie's emotional tone and its critical reception. We built a complete data pipeline to gather information, analyze it, and uncover insights using machine learning.
+
+**Here's what you'll find:**
+
+Data Scrape with Python & Regex: We retrieved movie data from IMDB & Metacritic utilizing Python's scraping capabilities and regular expressions for efficient data extraction.
+MongoDB for Structured Storage: The scraped data is housed in a well-organized MongoDB database, ensuring easy access and manipulation for further analysis.
+Jupyter Notebook as Your Analysis Hub: Dive into a year's worth of movie information using a Jupyter Notebook. This interactive environment allows for exploration, data cleaning, and model development.
+Data Fusion with Pandas: We leveraged Pandas, a powerful Python library, to seamlessly merge data sets from IMDB and Metacritic, creating a comprehensive data resource.
+AI Sentiment Analysis: To understand the emotional weight of each movie, we incorporated a machine learning model for sentiment analysis.
+Data Visualization for Clear Insights: The project culminates in insightful charts that visually represent the findings from the sentiment analysis model.
